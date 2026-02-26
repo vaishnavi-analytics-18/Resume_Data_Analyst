@@ -1,2 +1,2 @@
 # Resume_Data_Analyst
-Certified Data Analyst with strong foundation in data analysis, dashboard development, and business intelligence. Successfully completed structured training programs from IIT Jammu and NASSCOM (Gold Category) along with a 6-month professional internship in Data Analytics.
+Certified Data Analyst with academic training from Indian Institute of Technology Jammu and industry-aligned certification from NASSCOM (Gold Category). Completed a 6-month Data Analyst Internship with hands-on experience in SQL, Excel, Power BI, and Tableau. This repository contains a professionally structured resume highlighting technical expertise, analytical projects, certifications, and practical exposure in data analytics.
